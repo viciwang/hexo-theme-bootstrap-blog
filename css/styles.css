@@ -236,9 +236,8 @@ code {
 .article-category-link:before { content: "\f07b"; }
 
 .article-entry {
-  position: relative;
+  /*position: relative;*/
   overflow: hidden;
-  border: 0;
 }
 
 /* blockquote */
