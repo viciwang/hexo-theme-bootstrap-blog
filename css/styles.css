@@ -235,9 +235,9 @@ code {
 .article-author:before { content: "\f007"; }
 .article-category-link:before { content: "\f07b"; }
 
-.article-entry {
-  /*position: relative;
-  overflow: hidden;*/
+.article-entry iframe {
+  /*position: relative;*/
+  overflow: hidden;
 }
 
 /* blockquote */
