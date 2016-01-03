@@ -5,7 +5,6 @@ categories:
 - Photos
 tags:
 - Awesome
-- Fantastic
 photos:
 - assets/images/HNCK0537.jpg
 - assets/images/HNCK6173.jpg

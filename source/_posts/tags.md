@@ -6,4 +6,4 @@ tags:
 - Baz
 ---
 
-This post contains 3 tags. Make sure your theme can display all of the tags.
+This post contains 3 tags. Make sure the theme can display all of the tags.

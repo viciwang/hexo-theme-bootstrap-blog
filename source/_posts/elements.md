@@ -1,9 +1,11 @@
 title: Elements
-date: 2013-12-24 23:29:08
+date: 2015-12-30 00:52:54
 tags:
+- Hexo
+- Theme
 ---
 
-The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don't forget to redefine the style by yourself.
+The purpose of this post is to make sure all HTML elements can display properly.
 
 ---
 

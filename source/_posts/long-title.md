@@ -3,4 +3,4 @@ date: 2013-12-24 23:31:06
 tags:
 ---
 
-This post has a long title. Make sure the title displayed right.
+This post has a long title. Make sure the title is displaying correctly.

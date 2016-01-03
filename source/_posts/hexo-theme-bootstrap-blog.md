@@ -12,6 +12,11 @@ A simple [Bootstrap] v3 blog theme for [Hexo].
 
 Based on the [official Bootstrap Blog example template](http://getbootstrap.com/examples/blog/).
 
+The theme and example site source code can be found on Github:
+- [Theme package source code](https://github.com/cgmartin/hexo-theme-bootstrap-blog)
+- [Example site source content](https://github.com/cgmartin/hexo-theme-bootstrap-blog/tree/site)
+- [Example site generated output](https://github.com/cgmartin/hexo-theme-bootstrap-blog/tree/gh-pages)
+
 <!-- more -->
 
 ## Setup Instructions
