@@ -231,6 +231,11 @@ code {
 .article-category-link:before { content: "\f07b"; }
 
 /* blockquote */
+.article-entry blockquote footer cite a {
+  display: inline-block;
+  word-wrap: break-all;
+  text-overflow: ellipsis;
+}
 .article-entry blockquote footer cite::before {
     content: "~";
     padding: 0px 0.5em;
