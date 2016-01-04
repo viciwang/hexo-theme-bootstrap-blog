@@ -704,6 +704,7 @@ code {
 .article-footer {
   font-size: 0.85em;
   border-top: 1px solid #eee;
+  margin-top: 15px;
   padding-top: 15px;
 }
 .article-footer:after { /* clearfix */
