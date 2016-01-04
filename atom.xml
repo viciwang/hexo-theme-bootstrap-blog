@@ -199,14 +199,13 @@
     <published>2013-12-27T03:46:49.000Z</published>
     <updated>2016-01-03T04:17:58.000Z</updated>
     <content type="html"><![CDATA[<p>This is a image test post.</p>
-<p><img src="/hexo-theme-bootstrap-blog/assets/images/HNCK0537.jpg" alt=""></p>
-<p><img src="/hexo-theme-bootstrap-blog/assets/images/HNCK6173.jpg" alt="Caption"></p>
-<p><img src="/hexo-theme-bootstrap-blog/assets/images/HNCK8229.jpg" alt=""></p>
-<p><img src="http://placehold.it/350x150.jpg" alt="Small Picture"></p>]]></content>
+<p><div class="thumbnail"><img src="/hexo-theme-bootstrap-blog/assets/images/HNCK0537.jpg" alt=""></div></p>
+<p><div class="thumbnail"><img src="/hexo-theme-bootstrap-blog/assets/images/HNCK6173.jpg" alt="Caption"></div></p>
+<p><div class="thumbnail"><img src="/hexo-theme-bootstrap-blog/assets/images/HNCK8229.jpg" alt=""></div></p>
+<p><div class="thumbnail"><img src="http://placehold.it/350x150.jpg" alt="Small Picture"></div></p>]]></content>
     <summary type="html">
     <![CDATA[<p>This is a image test post.</p>
-<p><img src="/hexo-theme-bootstrap-blog/assets/images/HNCK0537.jpg" alt=""></p>
-<p><img src="/hexo-theme-b]]>
+<p><div class="thumbnail"><img src="/hexo-theme-bootstrap-blog/assets/images/HNCK0537.jpg" alt=""></div></]]>
     </summary>
     
   </entry>

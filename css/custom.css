@@ -218,6 +218,9 @@ code {
   color: inherit;
 }
 
+.article-entry .thumbnail .caption {
+  padding: 0;
+}
 
 /* article footer content */
 .article-footer {
