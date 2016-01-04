@@ -96,15 +96,17 @@ theme_config:
     <a href="https://github.com/cgmartin/hexo-theme-bootstrap-blog">Bootstrap Blog Hexo Theme</a>.
     If you enjoy it, send me a tweet <a href="https://twitter.com/c_g_martin" target="_blank"
     rel="external">@c_g_martin</a>.</p>
+  twitter_id: '@c_g_martin'
+  google_analytics: UA-71943468-1
 
 # widget behavior
 archive_type: 'monthly'
 show_count: true
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-71943468-1
 favicon:
-twitter_id:
+twitter_id: '@c_g_martin'
 google_plus:
 fb_admins:
 fb_app_id:
