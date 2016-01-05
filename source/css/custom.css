@@ -51,12 +51,13 @@ code {
   border-radius: 30px;
 }
 
-/* Override Bootstrap's default container width */
+/* Override Bootstrap's default container width
 @media (min-width: 1200px) {
   .container {
     width: 970px;
   }
 }
+*/
 
 /*
  * Masthead for nav
@@ -104,7 +105,7 @@ code {
   }
 
   /** The following may need modification depending on
-      the size of your `navbar-brand` (if enabled) */
+      the size of your `navbar-brand` (if enabled)
   #main-menu-navbar {
     margin-left: -30px;
   }
@@ -112,7 +113,7 @@ code {
     padding-top: 10px;
     padding-bottom: 10px;
   }
-  /** ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
 
   .navbar-inverse .navbar-nav>li>a.active:after {
     position: absolute;
