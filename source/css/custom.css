@@ -197,6 +197,9 @@ code {
 .sidebar-module-list-child {
   padding-left: 25px;
 }
+.sidebar-recents li {
+  margin-bottom: 5px;
+}
 
 .page-header,
 .page-header h1 {
@@ -307,6 +310,7 @@ code {
   color: #999;
   font-size: 0.9em;
 }
+.archive-article-header h1 { margin: 3px 0; }
 
 
 /*
