@@ -77,18 +77,9 @@
     $(this).wrap('<div class="table-responsive"></div>');
   });
 
+  // Lightbox plugin
   if ($.fancybox){
     $('.image-link').fancybox();
-  }
-  if ($.magnificPopup){
-    $('.article-entry .image-link').magnificPopup({type: 'image'});
-    $('.article-gallery').each(function() {
-      $(this).magnificPopup({
-        delegate: '.image-link',
-        type: 'image',
-        gallery: { enabled: true }
-      });
-    });
   }
 
 })(jQuery);
