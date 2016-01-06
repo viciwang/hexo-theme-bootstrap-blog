@@ -1,6 +1,13 @@
-<div class="blog-header">
+<div class="blog-header hidden-xs">
+  <img id="blog-logo" width="80" height="80" alt="Christopher Martin" src="https://www.gravatar.com/avatar/a95e70ac7b2964b6386b1034473fbe2a.png">
   <h1 class="blog-title"><%= config.title %></h1>
   <% if (theme.subtitle){ %>
     <p class="lead blog-description"><%= theme.subtitle %></p>
+  <% } %>
+</div>
+<div class="blog-header visible-xs">
+  <h1 class="blog-title"><%= config.title_mobile %></h1>
+  <% if (theme.subtitle){ %>
+    <p class="lead blog-description"><%= theme.subtitle_mobile %></p>
   <% } %>
 </div>

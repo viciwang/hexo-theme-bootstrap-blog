@@ -105,7 +105,7 @@ code {
   }
 
   /** The following may need modification depending on
-      the size of your `navbar-brand` (if enabled)
+      the size of your `navbar-brand` (if enabled)*/
   #main-menu-navbar {
     margin-left: -30px;
   }
@@ -113,7 +113,7 @@ code {
     padding-top: 10px;
     padding-bottom: 10px;
   }
-  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+  /*^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
 
   .navbar-inverse .navbar-nav>li>a.active:after {
     position: absolute;
@@ -128,6 +128,7 @@ code {
     border-bottom: 5px solid;
     border-left: 5px solid transparent;
   }
+
 }
 
 /*
@@ -146,6 +147,15 @@ code {
 .blog-description {
   font-size: 20px;
   color: #999;
+}
+#blog-logo {
+  display: block;
+  float: left;
+  border: 1px solid #ccc;
+  padding: 1px;
+  margin: 6px 10px 0 0;
+  width: 84px; height: 84px;
+  background-color: #fff;
 }
 
 /*
@@ -188,6 +198,29 @@ code {
   padding-left: 25px;
 }
 
+.page-header,
+.page-header h1 {
+  margin-top: 0;
+}
+.page-header {
+  border: 0;
+}
+.page-header.tag-type h1:before {
+  display: inline-block;
+  font-family: FontAwesome;
+  content: "\f02b";
+  margin-right: 0.25em;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+.page-header.category-type h1:before {
+  display: inline-block;
+  font-family: FontAwesome;
+  content: "\f07b";
+  margin-right: 0.25em;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
 
 /*
  * Blog posts
@@ -262,16 +295,19 @@ code {
   margin-bottom: 30px;
 }
 
-.archive-year-wrap a,
-.archive-article .article-datetime a {
+.archive-year-wrap a {
   color: #333;
   text-decoration: none;
 }
-
 .archive-article .article-datetime a {
   color: #999;
   text-decoration: none;
 }
+.archive-article .article-tag-list a {
+  color: #999;
+  font-size: 0.9em;
+}
+
 
 /*
  * Pagination
@@ -301,6 +337,7 @@ code {
  */
 
 .blog-footer {
+  margin-top: 15px;
   padding: 40px 0;
   color: #999;
   text-align: center;
