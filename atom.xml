@@ -4,7 +4,7 @@
   <subtitle><![CDATA[A Twitter Bootstrap blog theme for Hexo]]></subtitle>
   <link href="/hexo-theme-bootstrap-blog/atom.xml" rel="self"/>
   <link href="http://cgmartin.github.io/hexo-theme-bootstrap-blog/"/>
-  <updated>2016-01-04T14:16:21.000Z</updated>
+  <updated>2016-01-07T03:13:09.000Z</updated>
   <id>http://cgmartin.github.io/hexo-theme-bootstrap-blog/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://cgmartin.github.io/hexo-theme-bootstrap-blog/2016/01/02/hexo-theme-bootstrap-blog/"/>
     <id>http://cgmartin.github.io/hexo-theme-bootstrap-blog/2016/01/02/hexo-theme-bootstrap-blog/</id>
     <published>2016-01-02T05:16:01.000Z</published>
-    <updated>2016-01-04T14:16:21.000Z</updated>
+    <updated>2016-01-07T03:13:09.000Z</updated>
     <content type="html"><![CDATA[<p>A simple <a href="http://getbootstrap.com/" target="_blank" rel="external">Bootstrap</a> v3 blog theme for <a href="http://zespia.tw/hexo/" target="_blank" rel="external">Hexo</a>.</p>
 <p>Based on the <a href="http://getbootstrap.com/examples/blog/" target="_blank" rel="external">official Bootstrap Blog example template</a>.</p>
 <p>The theme and example site source code can be found on Github:</p>
@@ -38,7 +38,7 @@
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-tag-fontawesome --save</span><br></pre></td></tr></table></figure>
 <h3 id="Enable"><a href="#Enable" class="headerlink" title="Enable"></a>Enable</h3><p>Modify the <code>theme</code> setting in <code>_config.yml</code> to <code>bootstrap-blog</code>.</p>
 <h3 id="Update"><a href="#Update" class="headerlink" title="Update"></a>Update</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> themes/bootstrap-blog</span><br><span class="line">git pull</span><br></pre></td></tr></table></figure>
-<h2 id="Configuration"><a href="#Configuration" class="headerlink" title="Configuration"></a>Configuration</h2><figure class="highlight"><table><tr><td class="code"><pre><span class="line"># File: themes/bootstrap-blog/_config.yml&#10;&#10;# Header&#10;navbar_brand: false&#10;menu:&#10;  Home: index.html&#10;  Archives: archives/&#10;rss: /atom.xml&#10;&#10;# Content&#10;excerpt_link: Read More&#10;fancybox: true&#10;&#10;# Sidebar&#10;sidebar: true&#10;widgets:&#10;- about         # See also: `about_content`&#10;- category&#10;- tag&#10;- tagcloud&#10;- archives&#10;- recent_posts&#10;about_widget_content: &#62;&#10;  &#60;p&#62;Etiam porta &#60;em&#62;sem malesuada magna&#60;/em&#62; mollis euismod.&#10;  Cras mattis consectetur purus sit amet fermentum. Aenean&#10;  lacinia bibendum nulla sed consectetur.&#60;/p&#62;&#10;&#10;# Miscellaneous&#10;google_analytics:&#10;favicon:&#10;twitter:&#10;google_plus:</span><br></pre></td></tr></table></figure>
+<h2 id="Configuration"><a href="#Configuration" class="headerlink" title="Configuration"></a>Configuration</h2><figure class="highlight"><table><tr><td class="code"><pre><span class="line"># File: themes/bootstrap-blog/_config.yml&#10;&#10;# Header&#10;navbar_brand: false&#10;menu:&#10;  Home: index.html&#10;  Archives: archives/&#10;rss: /atom.xml&#10;&#10;# Content&#10;excerpt_link: Read More&#10;fancybox: true&#10;&#10;# Sidebar&#10;widgets:&#10;- about         # See also: `about_content`&#10;- category&#10;- tag&#10;- tagcloud&#10;- archives&#10;- recent_posts&#10;about_widget_content: &#62;&#10;  &#60;p&#62;Etiam porta &#60;em&#62;sem malesuada magna&#60;/em&#62; mollis euismod.&#10;  Cras mattis consectetur purus sit amet fermentum. Aenean&#10;  lacinia bibendum nulla sed consectetur.&#60;/p&#62;&#10;&#10;# Miscellaneous&#10;google_analytics:&#10;favicon:&#10;twitter:&#10;google_plus:</span><br></pre></td></tr></table></figure>
 <ul>
 <li><strong>navbar_brand</strong> - The HTML content for an optional <a href="http://getbootstrap.com/components/#navbar-brand-image" target="_blank" rel="external">&quot;navbar-brand&quot;</a>. Can be text or an image. <code>false</code> to hide.</li>
 <li><strong>menu</strong> - Navigation menu (map of Titles to URLs)</li>
