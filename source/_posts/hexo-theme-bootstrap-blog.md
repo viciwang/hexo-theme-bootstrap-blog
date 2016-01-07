@@ -72,7 +72,6 @@ excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: true
 widgets:
 - about         # See also: `about_content`
 - category
