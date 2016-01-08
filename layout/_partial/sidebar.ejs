@@ -1,3 +1,10 @@
+<% if (page.toc){ %>
+  <div class="sidebar-module sidebar-toc">
+    <h4>Table of Contents</h4>
+    <%- bs_toc(page.content, { class: 'sidebar-module-list',  headings: 'h1, h2, h3'}) %>
+  </div>
+<% } %>
+
 <% theme.widgets.forEach(function(widget){ %>
   <%- partial('_widget/' + widget) %>
 <% }) %>
