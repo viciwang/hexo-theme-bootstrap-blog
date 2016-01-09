@@ -4,7 +4,7 @@
   <subtitle><![CDATA[A Twitter Bootstrap blog theme for Hexo]]></subtitle>
   <link href="/hexo-theme-bootstrap-blog/atom.xml" rel="self"/>
   <link href="http://cgmartin.github.io/hexo-theme-bootstrap-blog/"/>
-  <updated>2016-01-07T03:13:09.000Z</updated>
+  <updated>2016-01-09T00:26:16.000Z</updated>
   <id>http://cgmartin.github.io/hexo-theme-bootstrap-blog/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://cgmartin.github.io/hexo-theme-bootstrap-blog/2016/01/02/hexo-theme-bootstrap-blog/"/>
     <id>http://cgmartin.github.io/hexo-theme-bootstrap-blog/2016/01/02/hexo-theme-bootstrap-blog/</id>
     <published>2016-01-02T05:16:01.000Z</published>
-    <updated>2016-01-07T03:13:09.000Z</updated>
+    <updated>2016-01-09T00:26:16.000Z</updated>
     <content type="html"><![CDATA[<p>A simple <a href="http://getbootstrap.com/" target="_blank" rel="external">Bootstrap</a> v3 blog theme for <a href="http://zespia.tw/hexo/" target="_blank" rel="external">Hexo</a>.</p>
 <p>Based on the <a href="http://getbootstrap.com/examples/blog/" target="_blank" rel="external">official Bootstrap Blog example template</a>.</p>
 <p>The theme and example site source code can be found on Github:</p>
@@ -27,6 +27,7 @@
 <li><a href="https://github.com/cgmartin/hexo-theme-bootstrap-blog" target="_blank" rel="external">Theme package source code</a></li>
 <li><a href="https://github.com/cgmartin/hexo-theme-bootstrap-blog/tree/site" target="_blank" rel="external">Example site source content</a></li>
 <li><a href="https://github.com/cgmartin/hexo-theme-bootstrap-blog/tree/gh-pages" target="_blank" rel="external">Example site generated output</a></li>
+<li><a href="https://cgmartin.com/2016/01/05/bootstrap-blog-hexo-theme/" target="_blank" rel="external">Theme announcement blog post</a></li>
 </ul>
 <a id="more"></a>
 <h2 id="Setup_Instructions"><a href="#Setup_Instructions" class="headerlink" title="Setup Instructions"></a>Setup Instructions</h2><h3 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h3><p><strong>This theme requires Hexo 2.4 and above.</strong></p>
@@ -91,6 +92,7 @@
 <li><a href="https://github.com/cgmartin/hexo-theme-bootstrap-blog">Theme package source code</a></li>
 <li><a href="https://github.com/cgmartin/hexo-theme-bootstrap-blog/tree/site">Example site source content</a></li>
 <li><a href="https://github.com/cgmartin/hexo-theme-bootstrap-blog/tree/gh-pages">Example site generated output</a></li>
+<li><a href="https://cgmartin.com/2016/01/05/bootstrap-blog-hexo-theme/">Theme announcement blog post</a></li>
 </ul>]]>
     
     </summary>
