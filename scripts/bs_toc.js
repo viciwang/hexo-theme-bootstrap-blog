@@ -2,6 +2,10 @@
 
 var cheerio;
 
+/**
+ * Modification of the default hexo tocHelper to include only specific headings:
+ * See: options.headings
+ */
 function tocHelper(str, options){
   options = options || {};
 

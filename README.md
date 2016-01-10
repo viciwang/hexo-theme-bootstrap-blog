@@ -6,6 +6,13 @@ Based on the [official Bootstrap Blog example template](http://getbootstrap.com/
 
 [Demo site](http://cgmartin.github.io/hexo-theme-bootstrap-blog/) | [More Information](https://cgmartin.com/2016/01/05/bootstrap-blog-hexo-theme/)
 
+**NOTE:** This branch is the author's customized version for [his website](https://www.cgmartin.com), as an example of customizing the base theme:
+- Replaces server-side highlight.js with client-side library bundle (style themes are easier to implement)
+- Replaces fancybox with [magnific popup](https://wrapbootstrap.com/out?u=http%3A%2F%2Fdimsemenov.com%2Fplugins%2Fmagnific-popup%2F) (which does better on mobile browsers)
+- Adds a table-of-contents widget, enabled per article via front-matter `toc: true`
+- Adds page titles to Categories, Tags, and Archives list pages
+
+
 ## Setup Instructions
 
 ### Install
