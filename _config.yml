@@ -99,7 +99,7 @@ theme_config:
   excerpt_link: Read More
   fancybox: true
   twitter_id: '@c_g_martin'
-  google_analytics: UA-71943468-1
+  google_analytics:
 
 # widget behavior
 archive_type: 'monthly'
