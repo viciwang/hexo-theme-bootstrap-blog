@@ -46,6 +46,12 @@ code {
   border-top-width: 0px;
 }
 
+@media screen and (max-width: 767px) {
+  .table-responsive {
+    border-width: 0px;
+  }
+}
+
 .fa { margin-right: 0.25em; }
 
 /* Buttons */
@@ -248,7 +254,7 @@ code {
  */
 
 .blog-footer {
-  padding: 40px 0;
+  padding: 10px 0;
   color: #999;
   text-align: center;
   background-color: #f9f9f9;
