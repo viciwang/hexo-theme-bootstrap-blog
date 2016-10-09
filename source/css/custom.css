@@ -11,7 +11,7 @@
 /* Globals */
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #555;
 }
 
@@ -39,6 +39,11 @@ p {
 code {
   background-color: #eeeeee;
   font-size: 80%;
+}
+
+.table>tbody>tr>td {
+  padding: 0px;
+  border-top-width: 0px;
 }
 
 .fa { margin-right: 0.25em; }
